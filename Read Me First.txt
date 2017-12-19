@@ -1,12 +1,11 @@
 **IMPORTANT**
-Due to the way this is converted to run in Windows, please don't move, or rename any of the files inside the build foldier. 
+Due to the way this is converted to run in Windows, please don't move, or rename any of the files inside the foldier. 
 It may cause the program to no longer work.
 ---------------------------------------------------------------------------------------------------------------------------
 **Other Info**
 Website: www.femdomideagenerator.weebly.com
-Download Only Hosted On - Dropbox
+Download Hosted On - GitHub only
 Thread Originally Created On Reddit.com
-Use Reddit thread to suggest ideas and stuff.
 ---------------------------------------------------------------------------------------------------------------------------
 V.1.0.1 - Built/Finished On - 12/17/2017
 Programmer Info: Coded In Python 3.6. Used cx_Freeze to convert to .exe for Windows
