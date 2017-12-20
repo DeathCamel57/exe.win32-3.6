@@ -1,5 +1,5 @@
 **IMPORTANT**
-Due to the way this is converted to run in Windows, please don't move, or rename any of the files inside the foldier. 
+Due to the way this is converted to run in Windows, please don't move, or rename any of the files inside the folder.
 It may cause the program to no longer work.
 ---------------------------------------------------------------------------------------------------------------------------
 **Other Info**
@@ -11,14 +11,14 @@ V.1.0.1 - Built/Finished On - 12/17/2017
 Programmer Info: Coded In Python 3.6. Used cx_Freeze to convert to .exe for Windows
 ---------------------------------------------------------------------------------------------------------------------------
 **CHANGE LOG**
-/Added 7 Basic Categoires:
- -Orgasm Denial                                                                                                                               
- -Humiliation                                                                                                                                 
- -Pain/Impact Play                                                                                                                            
- -Bondage                                                                                                                                     
- -Foot Fetish                                                                                                                                 
- -Services (For "Slaves"/Service Oriented Subs)                                                                                               
- -"Rewards" For Domme's (Not Really Rewards, But Used For Lack Of Better Term) 
+/Added 7 Basic Categories:
+ -Orgasm Denial
+ -Humiliation
+ -Pain/Impact Play
+ -Bondage
+ -Foot Fetish
+ -Services (For "Slaves"/Service Oriented Subs)
+ -"Rewards" For Domme's (Not Really Rewards, But Used For Lack Of Better Term)
 
 /Added 63 Tasks
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
